@@ -1,0 +1,56 @@
+.container {
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    right: -40%;
+    width: 40%;
+    height: 100vh;
+    padding: 2rem;
+    transition: all 0.3s ease-in;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    border: none;
+    background-color: #fff;
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+.active {
+   transform: translateX(-100%);
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.total {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-left: auto;
+}
+
+.overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    background: rgba(49,49,49,0.8);
+    transition: all 0.3s ease-in;
+}
+
+.overlay__inactive {
+    display: none;
+}
