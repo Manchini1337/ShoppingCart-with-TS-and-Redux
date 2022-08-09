@@ -10,3 +10,5 @@ Instead of using React Router, I took adventage of Next.JS built-in routing.
 I also re-created components and most of the styles that come from Bootstrap on my own.
 
 React-Redux with Redux-Toolkit was the replacement for React Context API.
+
+[Test the app!](https://typescript-cart.herokuapp.com/store)
