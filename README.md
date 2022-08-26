@@ -11,6 +11,6 @@ I also re-created components and most of the styles that come from Bootstrap on 
 
 React-Redux with Redux-Toolkit was the replacement for React Context API.
 
-[Test the app!](https://typescript-cart.herokuapp.com/store)*
+[Test the app!](https://typescript-cart.herokuapp.com/store)
 
 * Please take into account that heroku app might take a while to load.
