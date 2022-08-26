@@ -13,4 +13,4 @@ React-Redux with Redux-Toolkit was the replacement for React Context API.
 
 [Test the app!](https://typescript-cart.herokuapp.com/store)
 
-* Please take into account that heroku app might take a while to load.
+* Please take into account that heroku app might take a moment to load.
